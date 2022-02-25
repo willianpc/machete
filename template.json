@@ -1,0 +1,33 @@
+{
+  "random-object": {
+    "random_id": 666,
+    "random_list": [
+      1,
+      3,
+      5
+    ],
+    "random_bool": true,
+    "random_string": "I am a random string"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Will",
+      "active": true
+    }
+  ],
+  "cities": [
+    {
+      "name": "Rio de Janeiro",
+      "id": 1
+    }
+  ],
+  "level1": {
+    "level2": [
+      {
+        "some_string": "bla",
+        "some_number": 1
+      }
+    ]
+  }
+}
